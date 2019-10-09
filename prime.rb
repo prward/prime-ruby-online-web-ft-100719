@@ -2,8 +2,8 @@
 def prime?(num)
   if num <= 1
     return false
-  elsif num <= 3
+  elsif num >= 2
     return true
-
+else 
 end
 end
