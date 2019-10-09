@@ -9,6 +9,7 @@ def big_math(max)
     next unless p
     break if p^2 > max
     counter += 1
+    
 
 
 
