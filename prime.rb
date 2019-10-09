@@ -7,7 +7,7 @@ def big_math(max)
   counter = 0
   primes.each do |p|
     next unless p
-    break if
+    break if p^2 > max
 
 
 
