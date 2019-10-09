@@ -2,7 +2,8 @@
 require 'benchmark'
 require 'bigdecimal/math'
 
-def 
+def big_math(max)
+  
 
 
 
