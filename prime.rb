@@ -7,6 +7,7 @@ def big_math(max)
   counter = 0
   primes.each do |p|
     next unless p
+    break if
 
 
 
