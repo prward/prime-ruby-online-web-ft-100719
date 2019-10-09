@@ -4,6 +4,7 @@ def prime?(num)
     return false
   elsif num >= 2
     return true
-else (2..num/2).none?
+else (2..num/2).none? do |n|
+  
 end
 end
