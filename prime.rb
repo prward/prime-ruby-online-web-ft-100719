@@ -3,7 +3,7 @@ require 'benchmark'
 require 'bigdecimal/math'
 
 def big_math(max)
-  primes = (0..max)to.a
+  primes = (0..max).to_a
   
 
 
